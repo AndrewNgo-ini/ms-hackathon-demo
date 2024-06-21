@@ -1,0 +1,5 @@
+google-search-results
+langchain
+langchain-openai
+langchain-community
+python-dotenv
