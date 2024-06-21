@@ -1,6 +1,6 @@
 # ms-hackathon-demo
 
-## Setup Environment
+## Create python environment
 
 ```
 conda create -n ms-hackathon-demo python=3.9
